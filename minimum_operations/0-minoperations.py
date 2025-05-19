@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Function that calculates the fewest number of operations
 """
