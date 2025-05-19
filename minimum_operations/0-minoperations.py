@@ -21,5 +21,3 @@ def minOperations(n):
     else:
       factors += 1
   return operations
-
-print(minOperations(12))
