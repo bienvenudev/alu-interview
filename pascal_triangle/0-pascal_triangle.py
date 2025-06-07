@@ -1,4 +1,9 @@
+ #!/usr/bin/python3
+""" Pascal Triangle Function"""
+
+
 def pascal_triangle(n):
+    """Pascal Triangle using 2 for loops"""
     if n <= 0:
         return []
 
